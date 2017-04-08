@@ -1,6 +1,7 @@
+# This is Git's per-user configuration file.
 [user]
-    name = Allen, Timothy
-    email = tallen@wharton.upenn.edu
+	name = Briana Morgan
+    email = brianalmorgan@gmail.com
 [color]
     branch = auto
     diff = auto
